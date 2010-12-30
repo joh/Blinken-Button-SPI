@@ -1,5 +1,5 @@
-TARGET = main
-MCU    = atmega168
+TARGET = spi-slave-gcc
+MCU    = atmega32
 FORMAT = ihex
 
 PROGRAMMER = dragon_isp
