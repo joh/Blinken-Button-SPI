@@ -1,4 +1,4 @@
-TARGET = main
+TARGET = spi
 MCU    = atmega168
 FORMAT = ihex
 
