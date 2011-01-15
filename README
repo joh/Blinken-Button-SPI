@@ -1,0 +1,11 @@
+
+    Blinken Button SPI
+    ~~~~~~~~~~~~~~~~~~
+    
+    Adds SPI support to the Blinken Button by Interactive Matter[1]
+    
+    Blinken Button receives frames from an SPI master, which are shown
+    on the 8x8 LED display.
+    
+    [1] http://interactive-matter.org/how-to/blinken-button-for-beginners/
+    
