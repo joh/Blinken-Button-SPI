@@ -1,5 +1,5 @@
-TARGET = main
-MCU    = atmega168
+TARGET = master
+MCU    = atmega8535
 FORMAT = ihex
 
 PROGRAMMER = stk500
